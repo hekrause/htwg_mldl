@@ -1,2 +1,2 @@
 # htwg_mldl
-Master course in maschine learning and deep learning.
+Master course in machine learning and deep learning.
