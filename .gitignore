@@ -30,7 +30,7 @@ MANIFEST
 *.png
 *.PNG
 
-/home/henning/git_repos/htwg_mldl/Uebungen/Uebung02/data/*
+/home/henning/git_repos/htwg_mldl/Uebungen/Uebung02/data/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
