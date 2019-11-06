@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 **/*.npy
-**/data
+**/data/*
+!**/data/*empty.md
 
 # C extensions
 *.so
